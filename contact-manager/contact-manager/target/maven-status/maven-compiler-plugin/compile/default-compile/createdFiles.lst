@@ -1,0 +1,6 @@
+com\example\contactmanager\ContactManagerApplication.class
+com\example\contactmanager\service\ContactService.class
+com\example\contactmanager\controller\ContactController.class
+com\example\contactmanager\model\Contact.class
+com\example\contactmanager\service\ContactServiceImpl.class
+com\example\contactmanager\repository\ContactRepository.class
